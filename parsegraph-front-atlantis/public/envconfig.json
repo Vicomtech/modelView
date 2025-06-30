@@ -1,0 +1,50 @@
+{
+  "Envname": "deepfake",
+  "Mode": {
+    "oneOf": [
+      {
+        "enum": [
+          "LOCAL",
+          "REMOTE"
+        ],
+        "type": "string"
+      },
+      {
+        "type": "null"
+      }
+    ],
+    "value": "LOCAL"
+  },
+  "endpoints": {
+    "getcrops": {
+      "url": "evapi/get_faces/",
+      "method": "POST"
+    },
+    "getBlockLayers": {
+      "url": "viz_api/Layers/inblock",
+      "method": "GET"
+    },
+    "getBlocknodes": {
+      "url": "viz_api/Nodes",
+      "method": "GET"
+    },
+    "getInterpretabilitybyBlock": {
+      "url": "evapi/interpretability_by_block/",
+      "method": "GET"
+    },
+    "getExplainability": {
+      "url": "evapi/explainability/",
+      "method": "GET"
+    },
+    "getModel": {
+      "url": "evapi/model_structure/",
+      "method": "GET"
+    }
+  },
+  "localconf": {
+    "modelfile": "data/deepfakeModel.json",
+    "original": [
+      "face0.png"
+    ]
+  }
+}

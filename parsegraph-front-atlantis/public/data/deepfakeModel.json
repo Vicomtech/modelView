@@ -1,0 +1,856 @@
+{
+  "block_1": {
+    "layer_1": {
+      "n_layer": 1,
+      "n_nodes": 48,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 2,
+      "n_nodes": 12,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 3,
+      "n_nodes": 48,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 4,
+      "n_nodes": 24,
+      "type": "Conv2d"
+    }
+  },
+  "block_10": {
+    "layer_1": {
+      "n_layer": 44,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 45,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 46,
+      "n_nodes": 14,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 47,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 48,
+      "n_nodes": 56,
+      "type": "Conv2d"
+    }
+  },
+  "block_11": {
+    "layer_1": {
+      "n_layer": 49,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 50,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 51,
+      "n_nodes": 14,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 52,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 53,
+      "n_nodes": 112,
+      "type": "Conv2d"
+    }
+  },
+  "block_12": {
+    "layer_1": {
+      "n_layer": 54,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 55,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 56,
+      "n_nodes": 28,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 57,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 58,
+      "n_nodes": 112,
+      "type": "Conv2d"
+    }
+  },
+  "block_13": {
+    "layer_1": {
+      "n_layer": 59,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 60,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 61,
+      "n_nodes": 28,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 62,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 63,
+      "n_nodes": 112,
+      "type": "Conv2d"
+    }
+  },
+  "block_14": {
+    "layer_1": {
+      "n_layer": 64,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 65,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 66,
+      "n_nodes": 28,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 67,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 68,
+      "n_nodes": 112,
+      "type": "Conv2d"
+    }
+  },
+  "block_15": {
+    "layer_1": {
+      "n_layer": 69,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 70,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 71,
+      "n_nodes": 28,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 72,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 73,
+      "n_nodes": 112,
+      "type": "Conv2d"
+    }
+  },
+  "block_16": {
+    "layer_1": {
+      "n_layer": 74,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 75,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 76,
+      "n_nodes": 28,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 77,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 78,
+      "n_nodes": 112,
+      "type": "Conv2d"
+    }
+  },
+  "block_17": {
+    "layer_1": {
+      "n_layer": 79,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 80,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 81,
+      "n_nodes": 28,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 82,
+      "n_nodes": 672,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 83,
+      "n_nodes": 160,
+      "type": "Conv2d"
+    }
+  },
+  "block_18": {
+    "layer_1": {
+      "n_layer": 84,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 85,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 86,
+      "n_nodes": 40,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 87,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 88,
+      "n_nodes": 160,
+      "type": "Conv2d"
+    }
+  },
+  "block_19": {
+    "layer_1": {
+      "n_layer": 89,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 90,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 91,
+      "n_nodes": 40,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 92,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 93,
+      "n_nodes": 160,
+      "type": "Conv2d"
+    }
+  },
+  "block_2": {
+    "layer_1": {
+      "n_layer": 5,
+      "n_nodes": 24,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 6,
+      "n_nodes": 6,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 7,
+      "n_nodes": 24,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 8,
+      "n_nodes": 24,
+      "type": "Conv2d"
+    }
+  },
+  "block_20": {
+    "layer_1": {
+      "n_layer": 94,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 95,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 96,
+      "n_nodes": 40,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 97,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 98,
+      "n_nodes": 160,
+      "type": "Conv2d"
+    }
+  },
+  "block_21": {
+    "layer_1": {
+      "n_layer": 99,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 100,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 101,
+      "n_nodes": 40,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 102,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 103,
+      "n_nodes": 160,
+      "type": "Conv2d"
+    }
+  },
+  "block_22": {
+    "layer_1": {
+      "n_layer": 104,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 105,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 106,
+      "n_nodes": 40,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 107,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 108,
+      "n_nodes": 160,
+      "type": "Conv2d"
+    }
+  },
+  "block_23": {
+    "layer_1": {
+      "n_layer": 109,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 110,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 111,
+      "n_nodes": 40,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 112,
+      "n_nodes": 960,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 113,
+      "n_nodes": 272,
+      "type": "Conv2d"
+    }
+  },
+  "block_24": {
+    "layer_1": {
+      "n_layer": 114,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 115,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 116,
+      "n_nodes": 68,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 117,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 118,
+      "n_nodes": 272,
+      "type": "Conv2d"
+    }
+  },
+  "block_25": {
+    "layer_1": {
+      "n_layer": 119,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 120,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 121,
+      "n_nodes": 68,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 122,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 123,
+      "n_nodes": 272,
+      "type": "Conv2d"
+    }
+  },
+  "block_26": {
+    "layer_1": {
+      "n_layer": 124,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 125,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 126,
+      "n_nodes": 68,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 127,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 128,
+      "n_nodes": 272,
+      "type": "Conv2d"
+    }
+  },
+  "block_27": {
+    "layer_1": {
+      "n_layer": 129,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 130,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 131,
+      "n_nodes": 68,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 132,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 133,
+      "n_nodes": 272,
+      "type": "Conv2d"
+    }
+  },
+  "block_28": {
+    "layer_1": {
+      "n_layer": 134,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 135,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 136,
+      "n_nodes": 68,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 137,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 138,
+      "n_nodes": 272,
+      "type": "Conv2d"
+    }
+  },
+  "block_29": {
+    "layer_1": {
+      "n_layer": 139,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 140,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 141,
+      "n_nodes": 68,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 142,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 143,
+      "n_nodes": 272,
+      "type": "Conv2d"
+    }
+  },
+  "block_3": {
+    "layer_1": {
+      "n_layer": 9,
+      "n_nodes": 144,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 10,
+      "n_nodes": 144,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 11,
+      "n_nodes": 6,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 12,
+      "n_nodes": 144,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 13,
+      "n_nodes": 32,
+      "type": "Conv2d"
+    }
+  },
+  "block_30": {
+    "layer_1": {
+      "n_layer": 144,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 145,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 146,
+      "n_nodes": 68,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 147,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 148,
+      "n_nodes": 272,
+      "type": "Conv2d"
+    }
+  },
+  "block_31": {
+    "layer_1": {
+      "n_layer": 149,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 150,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 151,
+      "n_nodes": 68,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 152,
+      "n_nodes": 1632,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 153,
+      "n_nodes": 448,
+      "type": "Conv2d"
+    }
+  },
+  "block_32": {
+    "layer_1": {
+      "n_layer": 154,
+      "n_nodes": 2688,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 155,
+      "n_nodes": 2688,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 156,
+      "n_nodes": 112,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 157,
+      "n_nodes": 2688,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 158,
+      "n_nodes": 448,
+      "type": "Conv2d"
+    }
+  },
+  "block_4": {
+    "layer_1": {
+      "n_layer": 14,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 15,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 16,
+      "n_nodes": 8,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 17,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 18,
+      "n_nodes": 32,
+      "type": "Conv2d"
+    }
+  },
+  "block_5": {
+    "layer_1": {
+      "n_layer": 19,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 20,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 21,
+      "n_nodes": 8,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 22,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 23,
+      "n_nodes": 32,
+      "type": "Conv2d"
+    }
+  },
+  "block_6": {
+    "layer_1": {
+      "n_layer": 24,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 25,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 26,
+      "n_nodes": 8,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 27,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 28,
+      "n_nodes": 32,
+      "type": "Conv2d"
+    }
+  },
+  "block_7": {
+    "layer_1": {
+      "n_layer": 29,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 30,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 31,
+      "n_nodes": 8,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 32,
+      "n_nodes": 192,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 33,
+      "n_nodes": 56,
+      "type": "Conv2d"
+    }
+  },
+  "block_8": {
+    "layer_1": {
+      "n_layer": 34,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 35,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 36,
+      "n_nodes": 14,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 37,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 38,
+      "n_nodes": 56,
+      "type": "Conv2d"
+    }
+  },
+  "block_9": {
+    "layer_1": {
+      "n_layer": 39,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_2": {
+      "n_layer": 40,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_3": {
+      "n_layer": 41,
+      "n_nodes": 14,
+      "type": "Conv2d"
+    },
+    "layer_4": {
+      "n_layer": 42,
+      "n_nodes": 336,
+      "type": "Conv2d"
+    },
+    "layer_5": {
+      "n_layer": 43,
+      "n_nodes": 56,
+      "type": "Conv2d"
+    }
+  }
+}

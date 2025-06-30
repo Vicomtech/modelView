@@ -1,0 +1,44 @@
+@import './base.css';
+
+#app {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.resizer {
+  height: 100%;
+  width: 1vw;
+  background-color: var(--color-accent);
+  align-items: center;
+  cursor: ew-resize;
+}
+
+h3 {
+  width: 100%;
+  height: fit-content;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  border: 1px solid black;
+  color:var(--color-heading)
+}
+
+h5 {
+  text-anchor: start;
+  margin-inline-start: 5%;
+  font-style: italic;
+  font-size: larger;
+  color:var(--color-heading)
+}
+
+h4 {
+  height: fit-content;
+  text-anchor: start;
+  margin-inline-start: 5%;
+  font-style: italic;
+  font-weight: bold;
+  color:var(--color-heading)
+}
